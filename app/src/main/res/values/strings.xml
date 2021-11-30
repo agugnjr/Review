@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoView</string>
+    <string name="button_name">Exit</string>
+    <string name="enter_usd">Currency USD:</string>
+    <string name="enter_usd_hint"></string>
+    <string name="button_convert">Convert to IDR</string>
+    <string name="camera_button">Camera</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_button">Dial</string>
+</resources>
